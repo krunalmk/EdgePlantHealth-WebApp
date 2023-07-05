@@ -1,0 +1,12 @@
+Common metrics:
+Throughput
+Network congestion/ Traffic control
+Time to adaptation/scalability
+Cost/profit
+Privacy & security
+Resource utilization
+Response time
+Latency time
+Energy consumption ( eg.gateway) / host & datacenters
+Availability
+Temperature
